@@ -1,0 +1,11 @@
+.card{
+    width: 352px;
+    height: 223px;
+    position: relative;
+}
+.card .front, .card .back{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(31.58deg, #93278F -2.49%, #29ABE2 67.92%);
+    border-radius: 15px;
+}
